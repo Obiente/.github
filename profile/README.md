@@ -23,8 +23,17 @@ We give you **full access and control over your data** across all our platforms.
 
 ---
 
-## Useful Links
+## Contributing
 
+We welcome contributors of all kinds! Developers, designers, testers, writers, and more.  
+Whether it’s your first PR or your hundredth, your help matters.
+
+- [Contributing Guidelines](https://github.com/obiente/.github/blob/main/CONTRIBUTING.md)
+- [Contributor Data Policy](https://github.com/obiente/policies/blob/main/CONTRIBUTING-DATA.md)
+
+---
+
+## Useful Links
 - [Data Ownership & Control Policy](https://github.com/obiente/policies/blob/main/DATA_POLICY.md)  
 - [Obiente Website](https://obiente.com)  
 - [Contact & Support](mailto:support@obiente.com)  
